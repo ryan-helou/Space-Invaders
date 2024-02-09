@@ -1,27 +1,31 @@
-# JavaFX Project Template
+Space Invaders
+Space Invaders is a classic arcade game where players control a spaceship and must fend off waves of alien invaders.
 
-This is a non-modular, Gradle-based project skeleton for creating JavaFX applications.
+Description
+This project is a Java implementation of the Space Invaders game using JavaFX libraries for the user interface. The game features multiple levels with increasing difficulty, allowing players to maneuver their spaceship, shoot enemy invaders, and survive for as long as possible.
 
-It uses `JavaFX 20.0.2`, and includes the [Gradle Wrapper](https://docs.gradle.org/current/userguide/gradle_wrapper.html) (no need to install Gradle locally).
+Features
+Intuitive spaceship controls using keyboard input.
+Three levels of increasing difficulty, each with unique enemy formations.
+Randomized enemy shooting patterns to keep gameplay challenging.
+Responsive UI with real-time updates on remaining lives, current level, and elapsed time.
+Engaging sound effects to enhance the gaming experience.
+Installation
+To run the Space Invaders game, ensure you have Java installed on your system. Then, follow these steps:
 
-## Features
+Clone this repository to your local machine.
+Open the project in your preferred Java IDE.
+Build the project and resolve any dependencies.
+Run the Main class to start the game.
+Controls
+Use the arrow keys to move the spaceship (up, down, left, right).
+Press the spacebar to shoot missiles at enemy invaders.
+Press N to switch between different types of bullets.
+Screenshots
+[Insert screenshots of gameplay here]
 
-- JavaFX-aware coding assistance (code completion, search, navigation in JavaFX-specific source files)
-- Logging with [Logback](https://logback.qos.ch/).
-- Support for FXML.
-- Access to JavaFX's JavaDoc from within your IDE.
+Credits
+This project was developed by [Your Name] as part of [course or personal project]. Special thanks to [anyone who contributed or inspired the project].
 
-## Using this Project Template
-
-1. Clone this repository
-2. Remove the `.git` directory 
-3. Add the cloned directory structure to your local repo (if you already have one)
-4. Open the project with NetBeans
-5. Using NetBeans, build the project to resolve the dependencies
-6. Change the project name in `settings.gradle`
-7. Rename the default Java package in `MainApp.java` and `MainAppController.java`.
-8. Change the value of the `mainClass` class property in `build.gradle`. A fully-qualified name of the class containing the main method that you want to run must be supplied.
-
-## NetBeans
-
-This project template was tested with `NetBeans 17` and `JDK 18`.
+License
+This project is licensed under the [License Name] License - see the LICENSE file for details.
