@@ -7,7 +7,7 @@ import javafx.scene.shape.Rectangle;
  * Sprite class representing game entities.
  * Extends JavaFX Rectangle class and serves as the base class for game entities.
  * 
- * @author ryanheolu
+ * @author ryan-helou
  */
 public class Sprite extends Rectangle {
 

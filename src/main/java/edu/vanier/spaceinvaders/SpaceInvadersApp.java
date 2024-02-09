@@ -14,7 +14,7 @@ import org.slf4j.LoggerFactory;
  * The main class of the Space Invaders application. Responsible for launching
  * and initializing the game. Extends JavaFX Application class.
  *
- * @author ryanheolu
+ * @author ryan-helou
  */
 public class SpaceInvadersApp extends Application {
 
