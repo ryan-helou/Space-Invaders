@@ -31,12 +31,8 @@ To run the Space Invaders game, ensure you have Java installed on your system. T
 
 ## Screenshots
 
-[Insert screenshots of gameplay here]
+
 
 ## Credits
 
-This project was developed by [Your Name] as part of [course or personal project]. Special thanks to [anyone who contributed or inspired the project].
-
-## License
-
-This project is licensed under the [License Name] License - see the [LICENSE](LICENSE) file for details.
+This project was developed by Ryan Helou.
