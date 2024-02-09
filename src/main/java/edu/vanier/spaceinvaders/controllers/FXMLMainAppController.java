@@ -119,13 +119,13 @@ public class FXMLMainAppController {
                     case 2:
                         shootPlayerRight(spaceShip, bulletNumber);
                         shootPlayerLeft(spaceShip, bulletNumber);
-                        shoot2.play();
+                        shoot1.play();
                         break;
                     case 3:
                         shootPlayerRight(spaceShip, bulletNumber);
                         shootPlayerLeft(spaceShip, bulletNumber);
                         shootPlayer(spaceShip, bulletNumber);
-                        shoot3.play();
+                        shoot1.play();
                         break;
                     default:
                         break;
