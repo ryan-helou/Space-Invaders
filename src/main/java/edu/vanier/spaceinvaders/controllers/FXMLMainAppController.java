@@ -25,7 +25,7 @@ import org.slf4j.LoggerFactory;
 /**
  * Controller class of the MainApp's UI. Handles game logic and UI interactions.
  *
- * @author ryanhelou
+ * @author ryan-helou
  */
 public class FXMLMainAppController {
 
