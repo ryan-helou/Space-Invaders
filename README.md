@@ -1,6 +1,6 @@
 # Space Invaders
 
-Space Invaders is a classic arcade game where players control a spaceship and must fend off waves of alien invaders.
+Space Invaders is a classic arcade game where the player controls a spaceship and must fend off waves of alien invaders.
 
 ## Description
 
