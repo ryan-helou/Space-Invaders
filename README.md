@@ -30,11 +30,8 @@ To run the Space Invaders game, ensure you have Java installed on your system. T
 - Press **N** to switch between different types of bullets.
 
 ## Screenshots
-
-<img width="994" alt="sc1" src="https://github.com/user-attachments/assets/eb9daad3-1392-463e-a387-e21f0e32ecc7">
-<img width="995" alt="sc2" src="https://github.com/user-attachments/assets/ab29edd9-a856-4d6e-80a9-7a9ef7930e4d">
 <img width="999" alt="sc3" src="https://github.com/user-attachments/assets/ddc5418a-afc2-435c-9773-3d6adcd3537b">
-
+<img width="994" alt="sc1" src="https://github.com/user-attachments/assets/eb9daad3-1392-463e-a387-e21f0e32ecc7">
 
 
 ## Credits
