@@ -1,6 +1,8 @@
-# Space Invaders
+# 👾 Space Invaders
 
 *A JavaFX take on the arcade shooter, built for a programming course at Vanier College.*
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 
 You pilot a ship across the bottom of a 1000×1000 window and try to clear three waves of invaders before they wear down your three lives. Each level raises both the crowd and the danger: 15 enemies in a 3×5 grid, then 21 in a 3×7, then 28 in a 4×7, with per-enemy fire probability climbing from 0.5 to 0.8 to 1.0. Your own weapon widens to match — a single upward missile on level 1, angled left-and-right shots on level 2, all three at once on level 3.
 
