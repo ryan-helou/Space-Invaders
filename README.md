@@ -2,7 +2,7 @@
 
 # Space Invaders
 
-**A desktop version of the classic arcade shooting game, made as a school programming project at Vanier College.**
+**A desktop version of the classic arcade shooting game.**
 
 <!-- facts --><img alt="Made at: Vanier College" src="https://img.shields.io/badge/Made_at-Vanier_College-24292f?style=for-the-badge"> <img alt="Levels: 3, each harder" src="https://img.shields.io/badge/Levels-3,_each_harder-24292f?style=for-the-badge"> <img alt="Weapon: upgrades every level" src="https://img.shields.io/badge/Weapon-upgrades_every_level-24292f?style=for-the-badge">
 
@@ -17,7 +17,7 @@
 
 <br>
 
-You fly a ship along the bottom of the screen and shoot the rows of alien invaders above you while dodging the shots they drop. There are three levels, and each one adds more enemies who fire more often. It was built for a Java course at Vanier College, with its own sound effects, explosions and arcade-style lettering.
+You fly a ship along the bottom of the screen and shoot the rows of alien invaders above you while dodging the shots they drop. There are three levels, and each one adds more enemies who fire more often. I built it in Java, with its own sound effects, explosions and arcade-style lettering.
 
 ## What you can do with it
 
