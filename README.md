@@ -4,6 +4,8 @@
 
 **A desktop version of the classic arcade shooting game, made as a school programming project at Vanier College.**
 
+<!-- facts --><img alt="Made at: Vanier College" src="https://img.shields.io/badge/Made_at-Vanier_College-24292f?style=for-the-badge"> <img alt="Runs on: desktop (Java)" src="https://img.shields.io/badge/Runs_on-desktop_(Java)-24292f?style=for-the-badge"> <img alt="Levels: 3" src="https://img.shields.io/badge/Levels-3-24292f?style=for-the-badge">
+
 </div>
 
 <br>
